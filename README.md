@@ -1,6 +1,6 @@
-# gotixx
+# Nyotix
 
-A new Flutter project.
+Aplikasi Pesan Tiket Bioskop mirip Tix.did
 
 ## Getting Started
 
