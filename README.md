@@ -1,6 +1,4 @@
-# Nyotix
 
-Aplikasi Pesan Tiket Bioskop mirip Tix.id
 
 # API
 
